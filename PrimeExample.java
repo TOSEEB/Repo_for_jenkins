@@ -14,6 +14,6 @@ public class PrimeExample{
     }      
    }      
    if(flag==0)  { System.out.println(n+" is yo prime number"); }  
-  }  
+  }  //etc line added
 }    
 } 
